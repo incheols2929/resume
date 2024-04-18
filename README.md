@@ -42,6 +42,12 @@
     - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Cesium.js,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 개인 토이 프로젝트로 3D 지도 표출 및 LOD 모델 표출 및 화재 발생, 홍수 발생 시뮬레이션 및 센서를 연계하여 관제하는 시스템 입니다,
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+![건물 LOD1 0 전체](https://github.com/incheols2929/resume/assets/47733446/a5950995-6566-4fb5-9507-cbb988da7d68)
+![건물 분해 3](https://github.com/incheols2929/resume/assets/47733446/62ca2249-a0c3-4237-9b86-a896b181e859)
+![하천 홍수5](https://github.com/incheols2929/resume/assets/47733446/79cdc895-6f17-4a0f-b0e5-9c1612e43a83)
+![화재 관제 2](https://github.com/incheols2929/resume/assets/47733446/3f49f733-c820-4d1c-ab92-818b339528e7)
+
+
 
 
 * Iot통합플랫폼 웹 시스템 구축
