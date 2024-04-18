@@ -35,7 +35,7 @@
     - 사용 기술 : Spring MVC, Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Hadoop,Zookeeper,Hbase,Python,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 해남군에서 운영하고 있는 모든 데이터를 취합하여 군수가 모든 현황(인구, 민원,  정책 평가,재난 등)정보를 쉽게 한눈에 볼 수 있으며 키워드를 이용하여 뉴스 기사를 수집하여 군에서 진행하는 정책에 대하여 객관적인 평가를 확인할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 데이터 수집 프로그램인  데이터 허브 웹 개발(공공데이터 포털,ITS,기상청,생활안전지도 등), HadoopEcoSystem 구축 ,빅데이터 수집 프로그램 개발(키워드 관련 뉴스기사 전체 데이터 수집)  해남군 해남e 스마트 군정시스템 웹 개발(전체)
-
+![스크린샷 2024-04-18 232058](https://github.com/incheols2929/resume/assets/47733446/75706239-6e4c-464d-b923-77cdef53842d)
 
 * 디지털 트윈 웹 시스템 구축(3D지도 기반)
     - 개발 기간 : 2022.01 ~ 2023.09
@@ -56,6 +56,7 @@
     - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 정읍시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 정읍시에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+![image](https://github.com/incheols2929/resume/assets/47733446/cdd936ff-6f05-4e71-a3f3-551308129aff)
 
 
 * 전라남도청, 전라남도 영암군 스마트시티 통합플랫폼 웹 시스템 구축
@@ -63,6 +64,7 @@
     - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 전라남도 전체와 영암군에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 전라남도 전체와 영암군에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+![image](https://github.com/incheols2929/resume/assets/47733446/87b83091-adc8-496e-ad7f-7f3a22a6a44d)
 
 
 * 전라남도 재난상황플랫폼 관제시스템 구축
