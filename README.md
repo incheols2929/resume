@@ -1,4 +1,4 @@
-# resume
+![스크린샷 2024-04-19 090320](https://github.com/incheols2929/resume/assets/47733446/6ca23fb3-2138-46d1-9cb6-4d15801dbf1e)# resume
 ## 소개
 
 야구 선수에서 개발자로 전환해 10년 경력을 쌓으며 다양한 프로젝트를 진행해오면서 새로운 기술 도입에 주저하지 않는 도전하는 개발자입니다.
@@ -35,6 +35,8 @@
     - 사용 기술 : Spring MVC, Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Hadoop,Zookeeper,Hbase,Python,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 해남군에서 운영하고 있는 모든 데이터를 취합하여 군수가 모든 현황(인구, 민원,  정책 평가,재난 등)정보를 쉽게 한눈에 볼 수 있으며 키워드를 이용하여 뉴스 기사를 수집하여 군에서 진행하는 정책에 대하여 객관적인 평가를 확인할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 데이터 수집 프로그램인  데이터 허브 웹 개발(공공데이터 포털,ITS,기상청,생활안전지도 등), HadoopEcoSystem 구축 ,빅데이터 수집 프로그램 개발(키워드 관련 뉴스기사 전체 데이터 수집)  해남군 해남e 스마트 군정시스템 웹 개발(전체)
+![스크린샷 2024-04-19 090320](https://github.com/incheols2929/resume/assets/47733446/14b45f10-d45a-4a73-8f5f-7d06afbce280)
+
 ![스크린샷 2024-04-18 232058](https://github.com/incheols2929/resume/assets/47733446/75706239-6e4c-464d-b923-77cdef53842d)
 
 * 디지털 트윈 웹 시스템 구축(3D지도 기반)
@@ -43,8 +45,11 @@
     - 시스템 설명 : 개인 토이 프로젝트로 3D 지도 표출 및 LOD 모델 표출 및 화재 발생, 홍수 발생 시뮬레이션 및 센서를 연계하여 관제하는 시스템 입니다,
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 ![건물 LOD1 0 전체](https://github.com/incheols2929/resume/assets/47733446/a5950995-6566-4fb5-9507-cbb988da7d68)
+
 ![건물 분해 3](https://github.com/incheols2929/resume/assets/47733446/62ca2249-a0c3-4237-9b86-a896b181e859)
+
 ![하천 홍수5](https://github.com/incheols2929/resume/assets/47733446/79cdc895-6f17-4a0f-b0e5-9c1612e43a83)
+
 ![화재 관제 2](https://github.com/incheols2929/resume/assets/47733446/3f49f733-c820-4d1c-ab92-818b339528e7)
 
 
