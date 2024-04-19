@@ -44,7 +44,8 @@
     - 개발 기간 : 2022.01 ~ 2023.09
     - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Cesium.js,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 개인 토이 프로젝트로 3D 지도 표출 및 LOD 모델 표출 및 화재 발생, 홍수 발생 시뮬레이션 및 센서를 연계하여 관제하는 시스템 입니다,
-    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체)
+      
 ![건물 LOD1 0 전체](https://github.com/incheols2929/resume/assets/47733446/a5950995-6566-4fb5-9507-cbb988da7d68)
 
 ![건물 분해 3](https://github.com/incheols2929/resume/assets/47733446/62ca2249-a0c3-4237-9b86-a896b181e859)
@@ -54,20 +55,21 @@
 ![화재 관제 2](https://github.com/incheols2929/resume/assets/47733446/3f49f733-c820-4d1c-ab92-818b339528e7)
 
 
-
-
 * Iot통합플랫폼 웹 시스템 구축
     - 개발 기간 : 2021.09 ~ 2022.01
     - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Three.js,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 개인 토이 프로젝트로 3D 지도 표출 및 Mqtt,Socket 등으로 수집되는 센서 데이터를 수집하고 저장하여 해당 데이터가 필요한 시스템에 RestAPI로 전달해주는 시스템입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
+![image](https://github.com/incheols2929/resume/assets/47733446/31f5a406-fc2a-486f-8fae-43d55f92c92a)
+
 
 * 정읍시 스마트시티 통합플랫폼 웹시스템 구축
     - 개발 기간 : 2021.06 ~ 2021.09
     - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 정읍시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 정읍시에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
-    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체)
+      
 ![image](https://github.com/incheols2929/resume/assets/47733446/cdd936ff-6f05-4e71-a3f3-551308129aff)
 
 
@@ -75,7 +77,8 @@
     - 개발 기간 : 2020.11 ~ 2021.01
     - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 전라남도 전체와 영암군에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 전라남도 전체와 영암군에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
-    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
+    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체)
+      
 ![image](https://github.com/incheols2929/resume/assets/47733446/87b83091-adc8-496e-ad7f-7f3a22a6a44d)
 
 
