@@ -43,7 +43,7 @@
 
 * 데이터 허브
     - 개발 기간 : 2023.05 ~ 2023.12
-    - 사용 기술 : Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Hadoop,Zookeeper,Hbase,Python,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PowerMockup
     - 시스템 설명 : API 데이터를 수집하는 프로그램으로(공공데이터포털,ITS,SGIS,바다누리 등) 자동으로 데이터를 수집하고 데이터를 원하는 사용자가 있을 경우 키발급을 통하여 API 데이터를 제공하는 프로그램 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 시스템 개발(전체)
  
