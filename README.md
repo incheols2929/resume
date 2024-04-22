@@ -27,7 +27,9 @@
     - 개발 기간 : 2023.05 ~ 2023.12
     - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Cesium.js,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 영광군에 있는 농촌시설물(경로당,스포츠센터,도로 정비 등)을 3D 지도 기반으로 시설물을 관리하는 시스템으로 각 시설물은 3D 모델로 구현하여 지도 위에 표출하고 각 시설물을 관리 및 유지관리하는 시스템 입니다.
-    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(3D 지도 부분 담당) 
+    - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(3D 지도 부분 담당)
+      
+![image](https://github.com/incheols2929/resume/assets/47733446/97a052ac-6309-4bda-a6fd-630beba3a0fd)
 
 
 * 해남군 해남e 한눈에! 스마트 군정시스템 구축(빅데이터)
