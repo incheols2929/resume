@@ -6,7 +6,7 @@
 
 - 이 름 : 신인철
 - 군필여부 : 군필 / 육군 병장 만기 전역
-- 취 미 : 캠핑,달리기,여행
+- 취 미 : 캠핑, 달리기, 여행
 - Email : incheols2929@gmail.com
 - GitHub : https://github.com/incheols2929
 *** 
