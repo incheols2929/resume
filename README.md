@@ -68,7 +68,7 @@
 
 * 정읍시 스마트시티 통합플랫폼 웹시스템 구축
     - 개발 기간 : 2021.06 ~ 2021.09
-    - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 정읍시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 정읍시에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체)
       
@@ -80,7 +80,7 @@
 
 * 전라남도청, 전라남도 영암군 스마트시티 통합플랫폼 웹 시스템 구축
     - 개발 기간 : 2020.11 ~ 2021.01
-    - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 전라남도 전체와 영암군에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 정읍시 영상을 해당 기관으로 제공하며 추가적으로 전라남도 전체와 영암군에서 필요한 시설물,근무관리시스템 등 사용하는 시스템을 통합하여 관리하는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체)
       
@@ -89,42 +89,42 @@
 
 * 전라남도 재난상황플랫폼 관제시스템 구축
     - 개발 기간 : 2019.12 ~ 2020.03
-    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 전남도청에서 구축하고 있는 재난 예경보 시스템과 연계하여 각 정보 및 기상정보를 표출하여 홍수,지진 등 재난에 대비할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 영암군,곡성군 공유재산 관리시스템 구축
     - 개발 기간 : 2019.04 ~ 2020.04
-    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 각 군에서 보유하고 있는 토지(개인소유,국가,군,도) 등을 관리하고 대여시 관리하는 시스템 입니다,.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 영암군 통합 공간정보 클라우드 웹 시스템 구축
     - 개발 기간 : 2018.06 ~ 2018.12
-    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 영암군에서 보유하고 있는 공간정보를 조회하고 토지대장 및 건축물대장을 제공하여 담당자가 업무에 활용할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 곡성군 재난상황통합관제시스템 웹시스템 구축
     - 개발 기간 : 2018.05 ~ 2018.12
-    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 곡성군에서구축하고 있는 재난 예경보 시스템과 연계하여 각 정보 및 기상정보를 표출하여 홍수,지진 등 재난에 대비할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 해남군 하천통합관리시스템 웹 시스템 구축
     - 개발 기간 : 2017.03 ~ 2020.01
-    - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 해남군에서 하천에 관련된 측량한 정보를 2D지도 시스템에 표출하여 하천에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 영광군 농업기반시설물 공간정보시스템 웹 시스템 구축
     - 개발 기간 : 2016.05 ~ 2016.11
-    - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
     - 시스템 설명 : 영광군에서 농업에 관련된 정보를 2D지도 시스템에 표출하여 농업에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 개발(전체) 
 
