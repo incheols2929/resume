@@ -78,7 +78,6 @@
       
 ![image](https://github.com/incheols2929/resume/assets/47733446/cdd936ff-6f05-4e71-a3f3-551308129aff)
 ![cctv 영상 호출](https://github.com/incheols2929/resume/assets/47733446/53bb164a-e13a-4634-8d09-0e59d44cdb7a)
-![지능형함체](https://github.com/incheols2929/resume/assets/47733446/b64f642f-7e0f-478a-9d88-5ecfde353186)
 
 
 
