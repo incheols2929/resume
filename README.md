@@ -57,9 +57,6 @@
 
 ![건물 분해 3](https://github.com/incheols2929/resume/assets/47733446/62ca2249-a0c3-4237-9b86-a896b181e859)
 
-![하천 홍수5](https://github.com/incheols2929/resume/assets/47733446/79cdc895-6f17-4a0f-b0e5-9c1612e43a83)
-
-![화재 관제 2](https://github.com/incheols2929/resume/assets/47733446/3f49f733-c820-4d1c-ab92-818b339528e7)
 
 
 * Iot통합플랫폼 웹 시스템 구축
