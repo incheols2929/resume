@@ -46,6 +46,8 @@
     - 담당 역할 : 개발PM, 설계(요구사항,기능정의,화면설계,DB설계), 웹 시스템 개발(전체)
  
 ![image](https://github.com/incheols2929/resume/assets/47733446/31f5a406-fc2a-486f-8fae-43d55f92c92a)
+![image](https://github.com/incheols2929/resume/assets/47733446/b2f6527c-e5a2-4307-b95e-6435746b4dde)
+
 
 * 디지털 트윈 웹 시스템 구축(3D지도 기반)
     - 개발 기간 : 2022.01 ~ 2023.09
