@@ -30,8 +30,14 @@
 * 남원시 스마트시티 통합플랫폼 웹시스템 구축
     - 개발 기간 : 2024.05 ~ 2024.12
     - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
-    - 시스템 설명 : 남원시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 남원시 영상을 해당 기관으로 제공하며 추가적으로 남원시에서 요청한 S서비스(실시간 횡단보도 연기 정보, 차량번호인식카메라 데이터 수집, 재난 발생 시 SMS문자발송 ) 등 기능을 구현하여 관리하는 시스템 입니다.
+    - 시스템 설명 : 남원시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 남원시 영상을 해당 기관으로 제공하며 추가적으로 남원시에서 요청한 S서비스(실시간 횡단보도 연기 정보, 차량번호인식카메라 데이터 수집, SMS문자발송, Lora 장비 연계 등) 기능을 구현하였으며 해당 기능을 관리하는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체)
+    ![image](https://github.com/user-attachments/assets/f9546502-8916-44fe-8fd6-a264a8efa3f1)
+
+    ![image](https://github.com/user-attachments/assets/60816f1f-54f4-40a5-bd89-15df5dd498f4)
+
+    ![image](https://github.com/user-attachments/assets/33db5706-c328-4384-b1d1-1f1eb53af308)
+
 
 * 디지털 트윈 웹 시스템 구축(3D지도 기반) v.2.0
     - 개발 기간 : 2024.01 ~ 2024.04
