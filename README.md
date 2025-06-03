@@ -27,6 +27,21 @@
 *** 
 ## 진행 프로젝트
 ### (주)대호이엔지
+* 남원시 스마트시티 통합플랫폼 웹시스템 구축
+    - 개발 기간 : 2024.05 ~ 2024.12
+    - 사용 기술 : 전자정부프레임워크,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
+    - 시스템 설명 : 남원시에서 구축하고 있는 CCTV영상을 경찰,소방,법무부(전자발찌) 등 해당기관에서 영상을 요청 시 남원시 영상을 해당 기관으로 제공하며 추가적으로 남원시에서 요청한 S서비스(실시간 횡단보도 연기 정보, 차량번호인식카메라 데이터 수집, 재난 발생 시 SMS문자발송 ) 등 기능을 구현하여 관리하는 시스템 입니다.
+    - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체)
+
+* 디지털 트윈 웹 시스템 구축(3D지도 기반) v.2.0
+    - 개발 기간 : 2024.01 ~ 2024.04
+    - 사용 기술 : Spring MVC,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Cesium.js,Geoserver,PowerMockup
+    - 시스템 설명 : 개인 토이 프로젝트로 3D 지도 표출 및 LOD 모델 표출 및 트랜스포터 시뮬레이션, 기상효과, 정사영상(드론영상) 등 실시간 데이터를 받을 수 있는 Rest Api 서버를 구현하여 실제 장비의 실시간 위치 및 영상을 확인할 수 있는 시스템 입니다.
+    - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체)
+      ![image](https://github.com/user-attachments/assets/c013cb4c-1ebc-4094-994a-049397d6524a)
+      
+      ![image](https://github.com/user-attachments/assets/9670f0c0-e8c0-448b-8c14-b0e7ed6f6fdb)
+
 
 * 스마트 군정시스템 구축(빅데이터)
     - 개발 기간 : 2023.05 ~ 2023.12
@@ -46,6 +61,7 @@
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 시스템 개발(전체)
  
 ![image](https://github.com/incheols2929/resume/assets/47733446/31f5a406-fc2a-486f-8fae-43d55f92c92a)
+
 ![image](https://github.com/incheols2929/resume/assets/47733446/b2f6527c-e5a2-4307-b95e-6435746b4dde)
 
 
