@@ -1,8 +1,9 @@
 # resume
 ## 소개
 
-운동선수에서 개발자로 전환해 10년 경력을 쌓으며 백엔드 개발과 스타트업 개발자로서의 다양한 경험이 있습니다. Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, Hbase, Openlayers, Olcesium, Cesium, Geoserver 등을 사용하면서 설계, 개발, 운영한 경험이 있습니다.
-적극적이며 원활한 커뮤니케이션으로 문제를 해결하기 위해 노력하며 새로운 기술 도입에 주저하지 않는 도전하는 개발자입니다.
+운동선수에서 개발자로 전향한 후, 10년간 백엔드 개발과 스타트업에서 다양한 프로젝트를 수행하며 폭넓은 경험을 쌓았습니다.
+Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-Cesium, Cesium, GeoServer 등을 활용하여 시스템의 설계, 개발, 운영을 직접 담당한 경험이 있습니다.
+문제 해결을 위해 적극적으로 소통하며, 새로운 기술 도입에도 주저하지 않는 도전적인 개발자입니다.
 
 - 이 름 : 신인철
 - 군필여부 : 군필 / 육군 병장 만기 전역
