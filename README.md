@@ -34,8 +34,6 @@
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체)
     ![image](https://github.com/user-attachments/assets/f9546502-8916-44fe-8fd6-a264a8efa3f1)
 
-    ![image](https://github.com/user-attachments/assets/60816f1f-54f4-40a5-bd89-15df5dd498f4)
-
     ![image](https://github.com/user-attachments/assets/33db5706-c328-4384-b1d1-1f1eb53af308)
 
 
