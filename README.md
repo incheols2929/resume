@@ -30,7 +30,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 ### (주)대호이엔지
 * CCTV 영상 관제 웹 시스템 (DH-Watchive)
     - 개발 기간 : 2026.03 ~ 2026.04
-    - 사용 기술 : Spring Boot,Spring Security,MyBatis,JPA,JavaScript,JSP,PostgreSQL,WebSocket,FFmpeg,Mpegts,ONVIF,JNA,Quartz,OSHI
+    - 사용 기술 : Spring Boot,JavaScript,JSP,PostgreSQL,WebSocket,FFmpeg,Mpegts
     - 시스템 설명 : VMS(Video Management System)와 연동하여 CCTV 카메라의 실시간 스트리밍, 녹화 재생(Playback), PTZ 제어, 스냅샷 촬영, 녹화 스케줄 관리 등을 웹 브라우저에서 통합 수행할 수 있는 플랫폼입니다. FFmpeg를 활용한 RTSP 스트림 릴레이 및 WebSocket 기반 영상 스트리밍을 통해 브라우저에서 실시간 영상을 제공하며, 드래그앤드롭 위젯 기반 대시보드와 시스템 모니터링 기능을 포함합니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/watchive-dashboard.png)
@@ -42,7 +42,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 
 * 무안군 CCTV 통합관제 WebGIS 시스템 (DH-WebGIS)
     - 개발 기간 : 2026.03 ~ 2026.04
-    - 사용 기술 : Spring MVC,Spring Security,MyBatis,JavaScript,jQuery,JSP,PostgreSQL,PostGIS,OpenLayers,Cesium,GeoServer,WebSocket,MQTT,GeoTools
+    - 사용 기술 : Spring MVC,JavaScript,jQuery,JSP,PostgreSQL,PostGIS,OpenLayers,GeoServer
     - 시스템 설명 : 무안군 CCTV 통합관제센터의 CCTV 위치 현황을 GIS 지도 위에 시각화하고 실시간 영상 모니터링 및 장비 정보를 관리하는 시스템입니다. 119(소방), 112(경찰), 전자발찌, 사회적 약자 등 5대 연계 서비스 데이터를 소켓/API로 통합 수신하여 관제하며, 투망 모니터링(주변 9개 CCTV 동시 표출), PTZ 제어, 과거 영상 조회, 영상 조회 이력 관리 등의 기능을 제공합니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/webgis-control-main.png)
@@ -54,7 +54,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 
 * 사내 IT 인프라 자산 관리 시스템 (DH-InfraVault)
     - 개발 기간 : 2026.02 ~ 2026.03
-    - 사용 기술 : Spring Boot,Spring Security,Spring Batch,MyBatis,JPA,JavaScript,JSP,PostgreSQL,WebSocket,Quartz,Google OAuth2,Springdoc OpenAPI
+    - 사용 기술 : Spring Boot,JavaScript,JSP,PostgreSQL,WebSocket
     - 시스템 설명 : 회사가 수행하는 GIS/스마트시티 사업(프로젝트)에 투입되는 서버, 업체(벤더), 유지보수 이력을 통합 관리하며, 사내 클라우드 드라이브(파일 저장소) 기능까지 포함한 웹 애플리케이션입니다. 대시보드에서 사업 현황, 서버 수, 유지보수 건수를 한눈에 파악할 수 있으며, 문서 편집기, 파일 버전 관리, 공유 링크, Git 저장소 관리 등의 기능을 제공합니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/infravault-dashboard.png)
@@ -66,7 +66,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 
 * CCTV 자동 진단 및 모니터링 플랫폼 (DH-Watchive-Check)
     - 개발 기간 : 2026.01 ~ 2026.03
-    - 사용 기술 : Spring MVC,Spring Security,MyBatis,JavaScript,JSP,PostgreSQL,PostGIS,WebSocket,SSE,FFmpeg,GeoTools,GeoServer
+    - 사용 기술 : Spring MVC,JavaScript,JSP,PostgreSQL,PostGIS
     - 시스템 설명 : 지방자치단체에 설치된 CCTV 카메라의 상태를 자동으로 진단하고 장애를 탐지/분류/복구하는 NOC(Network Operations Center) 시스템입니다. WebSocket 기반 다단계 진단(네트워크 ping/TCP, 스트림 연결, 코덱 분석, 블랙프레임 감지)을 수행하며, 6시간 주기 배치 스케줄러로 전체 카메라를 일괄 진단합니다. 다수 사이트를 원격 에이전트 방식으로 통합 관리하고, SSE 실시간 알림과 일간/주간 통계 리포트를 제공합니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/watchive-check-dashboard.png)
@@ -78,7 +78,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 
 * 해남군 스마트 군정 시스템 V2 (HN-SmartOffice_V2)
     - 개발 기간 : 2025.06 ~ 2025.11
-    - 사용 기술 : Spring MVC,Spring Security,MyBatis,JavaScript,jQuery,D3.js,JSP,PostgreSQL,PostGIS,OpenLayers,GeoServer,GeoTools,WebSocket,MQTT
+    - 사용 기술 : Spring MVC,Spring Security,MyBatis,JavaScript,jQuery,D3.js,JSP,PostgreSQL,PostGIS,OpenLayers,GeoServer
     - 시스템 설명 : 전라남도 해남군을 위한 통합 데이터 관리 및 GIS 기반 빅데이터 플랫폼입니다. 군정 운영에 필요한 인구, 재정, 관광, 농업, 복지, 교육, 환경, 재난 등 다양한 분야의 데이터를 통합 관리하고, 지도 기반 시각화 및 D3.js 차트 분석 기능을 제공합니다. 공공데이터 API(기상청, 대기오염, ITS 등)와 연동하여 실시간 데이터를 수집하고 분야별 현황을 대시보드로 제공합니다.
     - 담당 역할 : 사업관리, 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/smartoffice-main.png)
