@@ -76,6 +76,20 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
     ![image](screenshots/watchive-check-camera.png)
 
 
+* AI 행정지원플랫폼 챗봇 (DH-AI)
+    - 개발 기간 : 2025.12 ~ 2026.02
+    - 사용 기술 : Python,FastAPI,LangChain,llama-cpp-python,FAISS,HuggingFace,JavaScript,jQuery,Chart.js,Jinja2
+    - 시스템 설명 : 해남군 행정업무를 지원하기 위한 로컬 LLM 기반 한국어 질의응답 시스템입니다. EEVE-Korean-10.8B 모델을 GGUF 포맷으로 로컬 GPU에서 구동하여 개인정보 유출 없이 행정문서를 RAG(검색증강생성) 방식으로 검색·응답합니다. ReAct 에이전트 기반 다단계 추론, FAISS 벡터 유사도 검색, WebSocket 실시간 스트리밍 응답, 22종 이상의 행정 데이터 차트 시각화, JWT 인증 및 MAC 기반 라이센스 관리, 관리자 대시보드(채팅 로그 분석, RAG 성능 모니터링, 피드백 관리) 기능을 제공합니다.
+    - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), LLM 서버 개발
+    ![image](screenshots/DH-AI_1.png)
+
+    ![image](screenshots/DH-AI_2.png)
+
+    ![image](screenshots/DH-AI_3.png)
+
+    ![image](screenshots/DH-AI_4.png)
+
+
 * 해남군 스마트 군정 시스템 V2 (HN-SmartOffice_V2)
     - 개발 기간 : 2025.06 ~ 2025.11
     - 사용 기술 : Spring MVC,Spring Security,MyBatis,JavaScript,jQuery,D3.js,JSP,PostgreSQL,PostGIS,OpenLayers,GeoServer
