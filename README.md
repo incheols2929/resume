@@ -2,7 +2,7 @@
 ## 소개
 
 운동선수에서 개발자로 전향한 후, 11년간 백엔드 개발과 스타트업에서 다양한 프로젝트를 수행하며 폭넓은 경험을 쌓았습니다.
-Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-Cesium, Cesium, GeoServer,FFmpeg,Mpegts 등을 활용하여 시스템의 설계, 개발, 운영을 직접 담당한 경험이 있습니다.
+Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-Cesium, Cesium, GeoServer, FFmpeg, Mpegts 등을 활용하여 시스템의 설계, 개발, 운영을 직접 담당한 경험이 있습니다.
 문제 해결을 위해 적극적으로 소통하며, 새로운 기술 도입에도 주저하지 않는 도전적인 개발자입니다.
 
 - 이 름 : 신인철
@@ -126,7 +126,7 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 
 * 스마트 군정시스템 구축(빅데이터)
     - 개발 기간 : 2023.05 ~ 2023.12
-    - 사용 기술 : Spring MVC, Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Hadoop,Zookeeper,Hbase,Python,Openlayers,OlCesium,Geoserver,PowerMockup
+    - 사용 기술 : Spring MVC,Spring Boot,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Hadoop,Zookeeper,Hbase,Python,Openlayers,OlCesium,Geoserver,PowerMockup
     - 시스템 설명 : 군에서 운영하고 있는 모든 데이터를 취합하여 군수가 모든 현황(인구, 민원,  정책 평가,재난 등)정보를 쉽게 한눈에 볼 수 있으며 키워드를 이용하여 뉴스 기사를 수집하여 군에서 진행하는 정책에 대하여 객관적인 평가를 확인할 수 있는 시스템 입니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 데이터 수집 프로그램인  데이터 허브 웹 개발(공공데이터 포털,ITS,기상청,생활안전지도 등), HadoopEcoSystem 구축 ,빅데이터 수집 프로그램 개발(키워드 관련 뉴스기사 전체 데이터 수집)   스마트 군정시스템 웹 개발(전체)
       
@@ -211,14 +211,14 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
 * 해남군 하천통합관리시스템 웹 시스템 구축
     - 개발 기간 : 2017.03 ~ 2020.01
     - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
-    - 시스템 설명 : 해남군에서 하천에 관련된 측량한 정보를 2D지도 시스템에 표출하여 하천에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템
+    - 시스템 설명 : 해남군에서 하천에 관련된 측량한 정보를 2D지도 시스템에 표출하여 하천에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템입니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
 * 영광군 농업기반시설물 공간정보시스템 웹 시스템 구축
     - 개발 기간 : 2016.05 ~ 2016.11
     - 사용 기술 : JSP,JavaScript,html,css,Jquery,PostgreSQL,PostGIS,Openlayers,Geoserver,PowerMockup
-    - 시스템 설명 : 영광군에서 농업에 관련된 정보를 2D지도 시스템에 표출하여 농업에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템
+    - 시스템 설명 : 영광군에서 농업에 관련된 정보를 2D지도 시스템에 표출하여 농업에 관련된 정보를 관리 및 유지보수 정보를 관리하는 시스템입니다.
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 웹 개발(전체) 
 
 
