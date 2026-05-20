@@ -47,9 +47,11 @@ Java, Spring, PostgreSQL, Git, Linux, Hadoop, Zookeeper, HBase, OpenLayers, Ol-C
     - 담당 역할 : 개발PM, 설계(기능정의,화면설계,DB설계), 프론트엔드+백엔드 개발
     ![image](screenshots/webgis-control-main.png)
 
-    ![image](screenshots/webgis-equipment.png)
+    ![image](screenshots/webgis-route.png)
 
     ![image](screenshots/webgis-history-real.png)
+
+    ![image](screenshots/webgis-route-realtime.png)
 
 
 * 사내 IT 인프라 자산 관리 시스템 (DH-InfraVault)
